@@ -7,8 +7,5 @@ Test project for
 - Dataset datas preprocessing
 - Run fine-tuned GPT2 model
 
-## Contributing
-Guidelines for contributing to the project.
-
 ## Reference
 Dataset: tatsu-lab/alpaca from Hugging Face.
